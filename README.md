@@ -7,6 +7,12 @@
 <br>
 🌱 I love to play chess and like to code
 <br>
+- 🌱 I’m currently doing competetive coding
+[![Codeforces](https://badges.joonhyung.xyz/codeforces/Unstoppable_1.svg)](https://codeforces.com/profile/Unstoppable_1)
+<br>
+- 📫 How to reach me **2020csb088@gmail.com.com**
+<br>
+
 💞️ I’m looking forward to collaborate on GitHub with other open source enthusiasts .
 <br>
 <br>
