@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prince Kumar</h1>
-<h3 align="center">Currently a student</h3>
+<h3 align="center">Currently a Developer</h3>
 
 ## About me 👨🏻‍💻 
     
@@ -7,7 +7,7 @@
 <br>
 🌱 I love to play chess and like to code
 <br>
-🌱 I’m currently doing competetive coding
+🌱 I’m doing competetive coding
 [![Codeforces](https://badges.joonhyung.xyz/codeforces/Unstoppable_1.svg)](https://codeforces.com/profile/Unstoppable_1)
 
 📫 How to reach me **2020csb088@gmail.com.com**
